@@ -26,19 +26,3 @@ Supports data-driven campaign strategy, operational planning, and budget optimiz
 
 Enhances AdEase’s ability to act proactively, improving audience reach and ROI.
 
-
-
----
-
-Next Steps (Overview)
-
-1. Clean and structure language-level human-view data (exclude bot traffic).
-
-
-2. Explore trend, stationarity, and seasonality by language.
-
-
-3. Build automated, scalable models (SARIMAX, Prophet, or global ML frameworks).
-
-
-4. Validate forecast performance and embed forecasts into operational workflows.
